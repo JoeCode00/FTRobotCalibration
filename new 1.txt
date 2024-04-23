@@ -1,0 +1,8 @@
+python sockets
+	magic number long4 0xff00aa55, status long4 integer 24 bytes total, encoder signed long4 integers 48 bytes total, angles double8 floats radians 48 bytes total, defining z and x vectors of the FT double8 z is up 48 bytes total
+	from center of shoulder
+	
+	pass back 2 vectors defining z and x vectors of the FT double8
+	smaller than mm steps
+	
+	22.54
